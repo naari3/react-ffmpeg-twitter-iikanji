@@ -21,8 +21,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
+  "homepage": "https://naari3.github.io/react-ffmpeg-twitter-iikanji",
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -48,6 +51,7 @@
     "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-react": "^7.21.3",
+    "gh-pages": "^3.1.0",
     "prettier": "^2.1.2"
   }
 }
