@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ffmpeg-twitter-iikanji/static/css/main.49c8a72e.chunk.css",
+    "main.js": "/react-ffmpeg-twitter-iikanji/static/js/main.7933e1c9.chunk.js",
+    "main.js.map": "/react-ffmpeg-twitter-iikanji/static/js/main.7933e1c9.chunk.js.map",
+    "runtime-main.js": "/react-ffmpeg-twitter-iikanji/static/js/runtime-main.b66231df.js",
+    "runtime-main.js.map": "/react-ffmpeg-twitter-iikanji/static/js/runtime-main.b66231df.js.map",
+    "static/js/2.157764f0.chunk.js": "/react-ffmpeg-twitter-iikanji/static/js/2.157764f0.chunk.js",
+    "static/js/2.157764f0.chunk.js.map": "/react-ffmpeg-twitter-iikanji/static/js/2.157764f0.chunk.js.map",
+    "index.html": "/react-ffmpeg-twitter-iikanji/index.html",
+    "precache-manifest.b27ed4770199635b440bd06bd7452a31.js": "/react-ffmpeg-twitter-iikanji/precache-manifest.b27ed4770199635b440bd06bd7452a31.js",
+    "service-worker.js": "/react-ffmpeg-twitter-iikanji/service-worker.js",
+    "static/css/main.49c8a72e.chunk.css.map": "/react-ffmpeg-twitter-iikanji/static/css/main.49c8a72e.chunk.css.map",
+    "static/js/2.157764f0.chunk.js.LICENSE.txt": "/react-ffmpeg-twitter-iikanji/static/js/2.157764f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b66231df.js",
+    "static/js/2.157764f0.chunk.js",
+    "static/css/main.49c8a72e.chunk.css",
+    "static/js/main.7933e1c9.chunk.js"
+  ]
+}
