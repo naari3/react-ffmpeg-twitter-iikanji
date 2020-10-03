@@ -1,3 +1,12 @@
+# react-ffmpeg-twitter-iikanji
+
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) を使ってみたかった
+- 実態としてはほとんどこれと同じ [ffmpegwasm/react-app](https://github.com/ffmpegwasm/react-app)
+- ファイルを外から入れられるようにしたのと、tsx と、トランスコードのオプションを入れられるようにした
+- 思ってたように遅かった
+
+# テンプレ
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
